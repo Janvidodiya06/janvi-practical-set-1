@@ -1,1 +1,1 @@
-# janvi-practical-set-1
+# janvi-practical
